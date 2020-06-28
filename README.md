@@ -1,4 +1,4 @@
-![devops guide](https://github.com/Tikam02/DevOps-Guide/blob/master/img/devops-guide.png)
+![devops guide](media/devops-guide.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Tikam02/DevOps_Cheatsheet?style=for-the-badge)
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -29,7 +29,6 @@
      <td align="center"><a href="./Networking"><img src="img/logo/network.png" width="80x;" height="75px;" alt="Networking"/><br /><b>Networking</b></a><br /><sub><a href="./Networking/networking-concepts.md">Networking Concepts</a></sub><br><sub><a href="./Networking/networking-commands.md">Networking Commands</a></sub></td>
 </table>
 </center>
----
 
 ### Getting Started DevOps Links:
 
